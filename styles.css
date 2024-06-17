@@ -1,0 +1,16 @@
+button {
+    margin-bottom: 40px;
+}
+
+.container__images {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+  height: 200px;
+  margin-bottom: 40px;
+
+  background-color: #f0f0f0;
+}
+
